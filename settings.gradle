@@ -1,0 +1,3 @@
+include ':infinitecycleviewpager'
+include ':app'
+rootProject.name = "AnimationDemo"
